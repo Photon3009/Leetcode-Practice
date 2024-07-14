@@ -1,29 +1,38 @@
 class TimeMap {
 private:
-    std::unordered_map<std::string, std::map<int, std::string>> data;
+    unordered_map<string, vector<pair<int, string>>> data;
 
 public:
     TimeMap() {
     }
     
     void set(std::string key, std::string value, int timestamp) {
-        data[key][timestamp] = value;
+        data[key].push_back({timestamp,value});
     }
     
     std::string get(std::string key, int timestamp) {
         if (data.find(key) == data.end()) {
             return "";
         }
-        
-        auto& timeMap = data[key];
-        auto it = timeMap.upper_bound(timestamp);
-        
-        if (it == timeMap.begin()) {
+        int l=0,r=data[key].size()-1;
+        if(data[key][0].first>timestamp){
             return "";
         }
-        
-        --it;
-        return it->second;
+        string ans;
+        while(l<=r){
+            int mid=(l+r)/2;
+            if(data[key][mid].first==timestamp){
+                return data[key][mid].second;
+            }
+            if(data[key][mid].first<timestamp){
+                ans=data[key][mid].second;
+                l=mid+1;
+            }
+            else{
+                r=mid-1;
+            }
+        }
+        return ans;
     }
 };
 /**
