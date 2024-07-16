@@ -6,7 +6,7 @@ public:
         int buy = 0; // Buy pointer
         int max_profit = 0;
 
-        for (int sell = 0; sell < prices.size(); ++sell) {
+        for (int sell = 1; sell < prices.size(); ++sell) {
             if (prices[sell] < prices[buy]) {
                 buy = sell; // Update buy pointer if current price is lower
             } else {
