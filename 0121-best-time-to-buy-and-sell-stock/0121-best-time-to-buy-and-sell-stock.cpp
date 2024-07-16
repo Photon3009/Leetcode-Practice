@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-         if (prices.empty()) return 0;
+    int maxProfit(vector<int>& p) {
+        if (p.empty()) return 0;
         
-        int buy = 0; // Buy pointer
-        int max_profit = 0;
-
-        for (int sell = 1; sell < prices.size(); ++sell) {
-            if (prices[sell] < prices[buy]) {
-                buy = sell; // Update buy pointer if current price is lower
-            } else {
-                int profit = prices[sell] - prices[buy];
-                max_profit = std::max(max_profit, profit);
+        int n=p.size();
+        int l=0,r=1;
+        int maxP=0;
+        while(r<n){
+            if(p[l]<p[r]){
+                int pro=p[r]-p[l];
+                maxP=max(maxP,pro);
             }
+            else{
+                l=r;
+            }
+            r++;
         }
 
-        return max_profit;
+        return maxP;
         // Mine approach below
         // int n=prices.size();
         // int maxProfit=0;
