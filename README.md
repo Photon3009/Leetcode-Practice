@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Photon3009/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Photon3009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Photon3009/Leetcode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Photon3009/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Photon3009/Leetcode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
