@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Photon3009/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Photon3009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/Photon3009/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Photon3009/Leetcode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Photon3009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0367-valid-perfect-square](https://github.com/Photon3009/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [1023-time-based-key-value-store](https://github.com/Photon3009/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
