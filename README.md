@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Photon3009/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Photon3009/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Photon3009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Photon3009/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Photon3009/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Photon3009/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Photon3009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Photon3009/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Photon3009/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [1023-time-based-key-value-store](https://github.com/Photon3009/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
