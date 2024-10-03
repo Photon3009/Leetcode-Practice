@@ -1,25 +1,17 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        int n= min(nums1.size(),nums2.size());
-        unordered_set<int> res;
-        if(n==nums1.size()){
-            for(auto& i: nums1){
-                for(auto& j:nums2){
-                    if(i==j) res.insert(i);
-                }
-            }
-        }else{
-            for(auto& i: nums2){
-                for(auto& j:nums1){
-                    if(i==j) res.insert(i);
-                }
-            }
+         unordered_set<int> set1(nums1.begin(), nums1.end()); // Store unique elements of nums1
+    unordered_set<int> intersection; // To store the intersection
+
+    // Iterate through nums2 and check for intersections
+    for (int num : nums2) {
+        if (set1.erase(num)) { // If num is found in set1, remove it from set1 and add to intersection
+            intersection.insert(num);
         }
-        vector<int> res1;
-        for(auto& i:res){
-            res1.push_back(i);
-        }
-        return res1;
+    }
+
+    // Convert set to vector for the result
+    return vector<int>(intersection.begin(), intersection.end());
     }
 };
