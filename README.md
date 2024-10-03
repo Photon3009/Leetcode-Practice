@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Photon3009/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Photon3009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Photon3009/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Photon3009/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Photon3009/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Photon3009/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Photon3009/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -74,12 +76,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Photon3009/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/Photon3009/Leetcode-Practice/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Photon3009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Photon3009/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [1023-time-based-key-value-store](https://github.com/Photon3009/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
 ## Matrix
@@ -90,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Photon3009/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Photon3009/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/Photon3009/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
