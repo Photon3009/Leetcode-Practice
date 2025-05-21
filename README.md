@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Photon3009/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Photon3009/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Photon3009/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Photon3009/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Photon3009/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Photon3009/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Photon3009/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [1023-time-based-key-value-store](https://github.com/Photon3009/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
